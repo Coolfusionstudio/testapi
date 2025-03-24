@@ -3,7 +3,7 @@
     {
       id: 1,
       name: "蘋果",
-      price: 5,
+      price: 15,
       image: "apple.jpeg",
       description: "新鮮蘋果50克,一日一蘋果,醫生遠離找",
     },
